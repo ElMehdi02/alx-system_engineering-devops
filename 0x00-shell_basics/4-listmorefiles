@@ -1,1 +1,2 @@
-#!/bin/bash ls -a
+#!/bin/bash 
+4-listmorefiles contains 1, it should be ls -a
