@@ -1,1 +1,1 @@
-A new repository about software engineer project 
+a new project as a software engineer student 
