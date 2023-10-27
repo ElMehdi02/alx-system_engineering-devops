@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# Displays a list of currently running processes.
-#   Shows all processes, for all users, including those
-#+  which might not have a TTY.
+# This script displays a list of currently running processes in a user-oriented format.
 
-ps -auxf
+# Use the ps command to list all processes, showing user-oriented information
+ps aux --forest | head -50
